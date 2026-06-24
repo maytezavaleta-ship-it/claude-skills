@@ -20,6 +20,13 @@ Validates a customer issue or feature request against real customer signal from 
 
 ---
 
+### `/create-prd`
+Collaborates with you to write a rigorous PRD — section by section, with pushback, edge case surfacing, and a quality checklist before finalizing. Modeled on the Agentforce Concierge Experience PRD (262). Exports to Google Docs when done.
+
+**Triggers:** "write a PRD for", "help me spec this", "create a PRD", "let's write requirements for", "spec out this feature", "I want to write a PRD"
+
+---
+
 ## How to install a skill
 
 1. Clone this repo (or just download the folder you want):
